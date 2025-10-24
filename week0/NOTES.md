@@ -1,4 +1,1 @@
-# cpp_learning
-Path to building C++ fluency
-
 clang++ -std=c++17 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk hello.cpp -o hello
